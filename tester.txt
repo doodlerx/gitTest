@@ -3,4 +3,4 @@ my line
 
 This is my new module 12
 Feature 2
-
+feature 3
