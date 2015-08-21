@@ -2,3 +2,4 @@ my test 2-3
 my line
 
 This is my new module 1
+Feature 2
